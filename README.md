@@ -32,10 +32,11 @@
 * Add user account to your channel !
 * Add bot to group with admin rights.
 * Deploy the bot.
+* Then test the bot is working or not,if not working contac
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work now :)
 
-[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
+
 
 
 ## Deploy
@@ -58,7 +59,3 @@ TG USER SESSION   :- Click👈 ഈ ക്ലിക്ൽ ബട്ടൺ വർ�
 Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 ഇത് വർക്കിംഗ്‌ ആണ്. 😁
 
 ## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
-
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
